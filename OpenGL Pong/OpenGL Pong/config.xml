@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <title>Pong</title>
+  <window-width>1280</window-width>
+  <window-height>720</window-height>
+  <gl-version-major>4</gl-version-major>
+  <gl-version-minor>6</gl-version-minor>
+  <enable-vsync>true</enable-vsync>
+  <multisample-count>4</multisample-count>
+</config>
