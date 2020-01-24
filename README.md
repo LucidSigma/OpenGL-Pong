@@ -4,9 +4,13 @@
 
 ## Controls
  **W**/**S** - move left paddle.
+ 
  **Up**/**Down** - move right paddle.
+ 
  **Enter** - begin game.
+ 
  **Escape** - quit game.
+ 
  **F2** - take screenshot.
 
 ## Credits
@@ -20,12 +24,19 @@
 
 ## Dependencies
  [SDL2](https://www.libsdl.org/index.php) - for window creation, input handling and OpenGL context creation.
+ 
  [OpenGL](https://www.opengl.org/) - for graphics.
+ 
  [GLAD](https://glad.dav1d.de/) - for accessing modern OpenGL functions.
+ 
  [GLM](https://glm.g-truc.net/0.9.9/index.html) - for graphical mathematics.
+ 
  [STB Image](https://github.com/nothings/stb) - for loading to/writing from image files.
+ 
  [OpenAL Soft](https://github.com/kcat/openal-soft) - for audio.
+ 
  [FreeType](https://www.freetype.org/) - for converting TTF files into texture atlases to be rendered.
+ 
  [tinyxml2](https://github.com/leethomason/tinyxml2) - for reading XML files.
 
 ## Building
