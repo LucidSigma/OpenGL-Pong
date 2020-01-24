@@ -15,11 +15,15 @@
 
 ## Credits
  All textures made with [Paint.NET](https://www.getpaint.net/).
+ 
  All sound effects make with [as3sfxr](https://www.superflashbros.net/as3sfxr/).
+ 
  All fonts from [dafont](https://www.dafont.com/nasalization.font).
 
  Music from https://filmmusic.io
+ 
  "Edm Detection Mode" by Kevin MacLeod (https://incompetech.com)
+ 
  License: CC BY (http://creativecommons.org/licenses/by/4.0/)
 
 ## Dependencies
